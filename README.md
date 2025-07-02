@@ -17,7 +17,7 @@ The time we greeted you.
 ## Example usage
 
 ```yaml
-uses: actions/javascript-action-by-eusebio-olvera@v1.0
+uses: actions/javascript-action-example@v1.0
 with:
   who-to-greet: Mona the Octocat
 ```
